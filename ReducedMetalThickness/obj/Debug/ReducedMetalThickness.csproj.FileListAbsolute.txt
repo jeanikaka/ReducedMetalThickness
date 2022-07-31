@@ -1,0 +1,6 @@
+C:\Users\Jean\source\repos\ReducedMetalThickness\ReducedMetalThickness\bin\Debug\ReducedMetalThickness.dll
+C:\Users\Jean\source\repos\ReducedMetalThickness\ReducedMetalThickness\bin\Debug\ReducedMetalThickness.pdb
+C:\Users\Jean\source\repos\ReducedMetalThickness\ReducedMetalThickness\obj\Debug\ReducedMetalThickness.csproj.AssemblyReference.cache
+C:\Users\Jean\source\repos\ReducedMetalThickness\ReducedMetalThickness\obj\Debug\ReducedMetalThickness.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\ReducedMetalThickness\ReducedMetalThickness\obj\Debug\ReducedMetalThickness.dll
+C:\Users\Jean\source\repos\ReducedMetalThickness\ReducedMetalThickness\obj\Debug\ReducedMetalThickness.pdb
